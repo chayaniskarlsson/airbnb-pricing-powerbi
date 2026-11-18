@@ -123,3 +123,8 @@ Group project in the course *Systemförståelse och verksamhetsprocesser inom BI
 - Aasiya
 - Rabbiya
 - Munira
+---
+
+## About this project
+
+This is a student project, created for educational purposes as part of the Business Intelligence Analyst programme at Nackademin. It uses publicly available data and is not affiliated with or endorsed by Airbnb. The Airbnb name and logo are used only to identify the subject of the analysis.
