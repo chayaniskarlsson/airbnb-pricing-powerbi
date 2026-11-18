@@ -78,8 +78,8 @@ Demand is measured by the number of guest reviews per month, which works as a pr
 
 | Page | Dataset | Coverage |
 |---|---|---|
-| Pricing analysis | [ADD DATASET NAME AND LINK] | 10 European cities: Amsterdam, Athens, Barcelona, Berlin, Budapest, Lisbon, London, Paris, Rome, Vienna |
-| Seasonality | [ADD DATASET NAME AND LINK] | 10 global cities: Bangkok, Cape Town, Hong Kong, Istanbul, Mexico City, New York, Paris, Rio de Janeiro, Rome, Sydney, 2009–2021 |
+| Pricing analysis | Airbnb prices for European cities, weekdays and weekends (provided by the course teacher, Nackademin) | 10 European cities: Amsterdam, Athens, Barcelona, Berlin, Budapest, Lisbon, London, Paris, Rome, Vienna |
+| Seasonality | Airbnb listings and reviews (provided by the course teacher, Nackademin) | 10 global cities: Bangkok, Cape Town, Hong Kong, Istanbul, Mexico City, New York, Paris, Rio de Janeiro, Rome, Sydney, 2009–2021 |
 
 ---
 
